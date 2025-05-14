@@ -1,1 +1,1 @@
-print("Bonjour depuis IntelliJ !")
+print("Bonjour depuis IntelliJ !") 
